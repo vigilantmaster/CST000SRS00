@@ -6,7 +6,7 @@ Class ID: *Your Unique ID*
 
 SRS ID: *CST???SRS00*
 
-Unresolved Issues:  None. 
+Unresolved Issues:  None for now. 
 
 Notes: None. 
 
@@ -19,8 +19,8 @@ Purpose: Demonstrate a 100% correct submission for the C++ Hello World program.
 
 Instructions: 
 
-- [ ] 0. **Fork this repository.**  DO NOT FORGET THIS STEP!
-- [ ] 1. Clone YOUR forked repository. Do not clone this repository. 
+- [x] 0. **Fork this repository.**  DO NOT FORGET THIS STEP!
+- [x] 1. Clone YOUR forked repository. Do not clone this repository. 
 - [ ] 2. Modify the local main.cpp by uncommenting the code to output "hello, world".  
 - [ ] 3. Build and run the program.  
 - [ ] 4. Update this README.md file.  
